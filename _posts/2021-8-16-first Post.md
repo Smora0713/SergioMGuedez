@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Temp
+title: What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
 ---
-
-What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
 
 A data scientist, at its core, is someone who can ask the questions that no one else is thinking about based on the data (s)he observes. These questions might be big or small and their impact can also vary in size. The consistent aspect of these questions is that they are driven by the data itself. For this, a data scientist must also understand the business and the meaning of the data. 
 
