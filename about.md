@@ -10,7 +10,7 @@ My name is Sergio Mora. I am a senior data analyst at Vanguard, working on becom
 
 I live in Charlotte NC with my wife and my two dogs, Banana and Salchicha:
 
-![Wife and I in Death Valley](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/Wife%20and%20I%20in%20Death%20Valley.jpg)
+![Wife and I in Death Valley](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Wife%20and%20I%20in%20Death%20Valley.jpg)
 --- Add picture of Banana
 --- Add picture of Salchicha
 
