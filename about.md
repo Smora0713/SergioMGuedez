@@ -11,12 +11,12 @@ My name is Sergio Mora. I am a senior data analyst at Vanguard, working on becom
 I live in Charlotte NC with my wife and my two dogs, Banana and Salchicha:
 
 ![Wife and I in Death Valley](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Wife%20and%20I%20in%20Death%20Valley.jpg)
---- Add picture of Banana
---- Add picture of Salchicha
+![My Dogo Argentino named Banana after a long hike](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Banana%20After%20a%20hike.jpg)
+![My Chihuahua named Salchicha before another hike](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Chicha%20After%20the%20Hike.jpg)
 
 My hobbies include video games (XBOX and PC), Travelling, hiking, and Chess.
 
---- Add picture of Hawaii
+![Us in Havanna Cuba](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Us%20in%20Cuba.jpg)
 
 ### Contact me
 
