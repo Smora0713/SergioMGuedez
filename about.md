@@ -18,6 +18,11 @@ I live in Charlotte NC with my wife and my two dogs, Banana and Salchicha:
 ![Our Chihuahua named Salchicha before another hike](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Chicha%20After%20the%20Hike.jpg)
 **Our Chihuahua named Salchicha before another hike**
 
+
+
+<br>
+
+
 My hobbies include video games (XBOX and PC), Travelling, hiking, and Chess.
 
 ![Us in Havanna Cuba](https://raw.githubusercontent.com/Smora0713/Smora0713.github.io/master/images/Us%20in%20Cuba.jpg)
