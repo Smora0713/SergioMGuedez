@@ -19,7 +19,9 @@ I live in Charlotte NC with my wife and my two dogs, Banana and Salchicha:
 **Our Chihuahua named Salchicha before another hike**
 
 
-
+<br>
+<br>
+<br>
 <br>
 
 
