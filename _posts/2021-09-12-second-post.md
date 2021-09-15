@@ -3,7 +3,7 @@ Programming Background
 Sergio Mora
 9/12/2021
 
-## 0.1 Sergio Mora Programming Background in ST558
+## Sergio Mora Programming Background in ST558
 
 **Prompt:** Everyone in this course had some programming experience
 coming in (due to the prerequisites). What are your thoughts on R vs
@@ -40,24 +40,22 @@ every new package feels like its own sub language that I need to
 relearn. Although it is a hard language to use I can’t deny that it’s
 functionality/versatility is great and a language worth learning.
 
-## 0.2 example R Markdown output.
+## example R Markdown output.
 
 ``` r
 plot(iris)
 ```
 
-![](C:\\Users\\14154\\Documents\\repos\\First%20Repo\\Smora0713.github.io_posts\\unnamed-chunk-5-1.png)<!-- -->
+![](../images/unnamed-chunk-1-1.png)<!-- -->
 
-# 1 Code to Create this Document
+# Code to Create this Document
 
 ``` r
-rmarkdown::render("C:\\Users\\14154\\Documents\\repos\\First Repo\\Smora0713.github.io\\_Rmd\\2021-09-12 second post.RMD", 
+rmarkdown::render("_Rmd\\2021-09-12 second post.Rmd", 
               output_format = "github_document", 
-              output_dir = "C:\\Users\\14154\\Documents\\repos\\First Repo\\Smora0713.github.io\\_posts",
+              output_dir = "_posts",
                             output_options = list(
-                toc_depth = '2',
-                number_sections = TRUE,
-                df_print = 'tibble'
+                html_preview = false
                 )
               )
 ```
