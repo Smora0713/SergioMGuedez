@@ -3,11 +3,6 @@ Programming Background
 Sergio Mora
 9/12/2021
 
-  - [0.1 Sergio Mora Programming Background in
-    ST558](#sergio-mora-programming-background-in-st558)
-  - [0.2 example R Markdown output.](#example-r-markdown-output)
-  - [1 Code to Create this Document](#code-to-create-this-document)
-
 ## 0.1 Sergio Mora Programming Background in ST558
 
 **Prompt:** Everyone in this course had some programming experience
@@ -51,7 +46,7 @@ functionality/versatility is great and a language worth learning.
 plot(iris)
 ```
 
-![](../images/unnamed-chunk-2-1.png)<!-- -->
+![](C:\\Users\\14154\\Documents\\repos\\First%20Repo\\Smora0713.github.io_posts\\unnamed-chunk-5-1.png)<!-- -->
 
 # 1 Code to Create this Document
 
@@ -60,9 +55,6 @@ rmarkdown::render("C:\\Users\\14154\\Documents\\repos\\First Repo\\Smora0713.git
               output_format = "github_document", 
               output_dir = "C:\\Users\\14154\\Documents\\repos\\First Repo\\Smora0713.github.io\\_posts",
                             output_options = list(
-                name_value_pairs = "value",
-                or_something = TRUE,
-                toc = TRUE,
                 toc_depth = '2',
                 number_sections = TRUE,
                 df_print = 'tibble'
