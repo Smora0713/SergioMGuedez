@@ -49,13 +49,3 @@ plot(iris)
 ![](../images/unnamed-chunk-1-1.png)<!-- -->
 
 # Code to Create this Document
-
-``` r
-rmarkdown::render("_Rmd\\2021-09-12 second post.Rmd", 
-              output_format = "github_document", 
-              output_dir = "_posts",
-                            output_options = list(
-                html_preview = false
-                )
-              )
-```
