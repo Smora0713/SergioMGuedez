@@ -47,5 +47,3 @@ plot(iris)
 ```
 
 ![](../images/unnamed-chunk-1-1.png)<!-- -->
-
-# Code to Create this Document
