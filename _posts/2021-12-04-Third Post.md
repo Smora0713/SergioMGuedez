@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Third Post
 title: Reflection Post
 ---
 
@@ -10,12 +10,12 @@ I believe I have this strong believe on what a data scientist does because I hav
 Because of my close association with data scientist is a major part why I decided to study statistics.
 Although my background (undergrad) is in economics I knew that a strong foundation in statistics would help me advance in the data science world.
 
-what your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
+**what your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?**
 
 I think R is one of the most specialized tool when it comes to Data Science. I have utilized R before but now that I use it for work I keep facing issues that are better resolved with other languages (e.g.python or SQL).
 I believe that once data is sourced, and cleaned, and depending on the size of the data, R is one of the best tools for data analytics and data science.
 
-what things are you going to do differently in practice now that you've had this course?
+**what things are you going to do differently in practice now that you've had this course?**
 
 I have had the great luck that what I learn at NCSU I have been able to apply in my career. When I took intro to SAS I was able to bring that to my old job analyzing data.
 When I learned advanced SAS I was able to automate myself out of a job and into a better opportunity.
